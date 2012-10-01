@@ -1,4 +1,4 @@
-gisgraphy-client
+tomtom-client
 ================
 
 C# client for TomTom Geocoding API
