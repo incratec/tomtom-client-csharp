@@ -26,7 +26,7 @@ moma.Country = "USA";
 ```c#
 TomTomClient gc = new TomTomClient("YOUR API KEY");
 ```
-You can obtain your API key at TomTom�s Map Toolkit API website.
+You can obtain your API key at TomTom's Map Toolkit API website.
 
 3. geocode the address
 ```c#
