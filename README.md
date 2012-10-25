@@ -26,7 +26,7 @@ moma.Country = "USA";
 ```c#
 TomTomClient gc = new TomTomClient("YOUR API KEY");
 ```
-You can obtain your API key at TomTom’s Map Toolkit API website.
+You can obtain your API key at TomTomï¿½s Map Toolkit API website.
 
 3. geocode the address
 ```c#
@@ -38,9 +38,9 @@ See Program.cs for a working samples.
 
 license
 -------
-Licensed under GPL v3 or later (refer to <a href="LICENSE">LICENSE</a> for the ful license text and more information).
-Please credit https://www.geocoderpro.com e.g. using a link from your website.
+Licensed under MIT license (refer to <a href="LICENSE">LICENSE</a> for the license text and more information).
+Please credit http://www.geocoderpro.com e.g. using a link from your website.
 
-Help and commercial usage
-----------------
-Please contact us at https://www.geocoderpro.com/en/support/ if you need help or are interested in commercial usage of this code.
+help + support
+--------------
+Please contact us at https://www.geocoderpro.com/ if you need help.
