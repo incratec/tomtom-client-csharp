@@ -22,7 +22,7 @@ moma.State = "NY";
 moma.Country = "USA";
 ```
 
-2. instantiate the GisgraphyClient
+2. instantiate the TomTom geocoding client
 ```c#
 TomTomClient gc = new TomTomClient("YOUR API KEY");
 ```
